@@ -41,10 +41,11 @@ A 2D platformer game with wave survival gameplay using Unity.
 
 * Shoot
 ![Image description](./img/Shoot.png)
-
-
+ 
+ 
 * Melee
 ![Image description](./img/Melee.png)
+
 
 * Pass Through Platform
 ![Image description](./img/Pass.png)
