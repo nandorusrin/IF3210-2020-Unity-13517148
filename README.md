@@ -5,9 +5,11 @@ A 2D platformer game with wave survival gameplay using Unity.
 
 | Controls | Keyboard |
 |----------|----------|
-| Move | A, D |
+| Move Left | A |
+| Move Right | D |
 | Jump | Space |
 | Crouch | S |
+| Lookup | W |
 | Shoot | O |
 | Melee | K |
 | Activate | E |
